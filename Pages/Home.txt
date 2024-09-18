@@ -2,15 +2,33 @@ Link: /
 
 A repository of internal onboarding handbooks and other similar documents.
 
-- [Valve (2012)](/static/valve.pdf)
+## PDFs
+
 - [Facebook (2012)](/static/facebook.pdf)
 - [Mr. Beast (2022)](/static/mrbeast.pdf)
+- [Valve (2012)](/static/valve.pdf)
 
-Additionally, here are some 'live' ones:
+## External/public handbooks
 
-- [GitLab](https://handbook.gitlab.com/)
-- [Posthog](https://posthog.com/handbook)
-- [Significa](https://significa.co/handbook)
-- [37signals](https://basecamp.com/handbook)
+Additionally, here are some 'live' ones. (Be sure to treat these a _little bit_ less as earnest artifacts and a _little bit_ more as branding exercises.)
+
+- [37signals (2024)](https://basecamp.com/handbook)
+- [Airbyte (2024)](https://handbook.airbyte.com/)
+- [Artsy (2024)](https://github.com/artsy/README)
+- [Clef (2016)](https://github.com/clef/handbook)
+- [GitLab (2024)](https://handbook.gitlab.com/)
+- [MadeTech (2024)](https://github.com/madetech/handbook)
+- [MarsBased (2024)](https://github.com/MarsBased/handbook)
+- [Meltano (2023)](https://handbook.meltano.com/)
+- [Posthog (2024)](https://posthog.com/handbook)
+- [Remote (2023)](https://remotecom.notion.site/a3439c6ccaac4d5f8c7515c357345c11?v=8bb7f9be662f45da87ef4ab14a42be37)
+- [Significa (2024)](https://significa.co/handbook)
+- [SourceGraph (2024)](https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0)
+- [Thoughtbot (2024)](https://thoughtbot.com/playbook)
+
+## Related goodies
+
+- [Oxide's public-facing RFDs](https://rfd.shared.oxide.computer/rfd/0002)
+---
 
 This page is open source; [file an issue or pull request](https://github.com/jmduke/handbook.directory/issues) if you'd like to add something.
