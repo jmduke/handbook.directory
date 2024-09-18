@@ -6,6 +6,7 @@ Internal onboarding/cultural handbooks that have been leaked or otherwise made p
 
 - [Facebook (2012)](/static/facebook.pdf)
 - [Mr. Beast (2022)](/static/mrbeast.pdf)
+- [Netflix (2009)](/static/netflix.pdf)
 - [Valve (2012)](/static/valve.pdf)
 
 ## External/public handbooks
