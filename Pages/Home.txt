@@ -1,8 +1,8 @@
 Link: /
 
-A repository of internal onboarding handbooks and other similar documents.
-
 ## PDFs
+
+Internal onboarding/cultural handbooks that have been leaked or otherwise made public throughout the years.
 
 - [Facebook (2012)](/static/facebook.pdf)
 - [Mr. Beast (2022)](/static/mrbeast.pdf)
