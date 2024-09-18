@@ -1,7 +1,16 @@
 Link: /
 
-Some handbooks:
+A repository of internal onboarding handbooks and other similar documents.
 
 - [Valve (2012)](/static/valve.pdf)
 - [Facebook (2012)](/static/facebook.pdf)
 - [Mr. Beast (2022)](/static/mrbeast.pdf)
+
+Additionally, here are some 'live' ones:
+
+- [GitLab](https://handbook.gitlab.com/)
+- [Posthog](https://posthog.com/handbook)
+- [Significa](https://significa.co/handbook)
+- [37signals](https://basecamp.com/handbook)
+
+Are we missing something? [Email me](mailto:justin@buttondown.email) and I'll add it.
