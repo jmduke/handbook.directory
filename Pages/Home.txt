@@ -1,0 +1,7 @@
+Link: /
+
+Some handbooks:
+
+- [Valve (2012)](/static/valve.pdf)
+- [Facebook (2012)](/static/facebook.pdf)
+- [Mr. Beast (2022)](/static/mrbeast.pdf)
