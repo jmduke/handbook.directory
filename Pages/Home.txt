@@ -26,6 +26,7 @@ Additionally, here are some 'live' ones. (Be sure to treat these a _little bit_ 
 - [Significa (2024)](https://significa.co/handbook)
 - [SourceGraph (2024)](https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0)
 - [Thoughtbot (2024)](https://thoughtbot.com/playbook)
+- [Stellate (2024)](https://stellatehq.notion.site/Stellate-Handbook-75908fa57a23439690c86eb34860751b)
 
 ## Related goodies
 
