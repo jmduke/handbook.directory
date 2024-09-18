@@ -13,4 +13,4 @@ Additionally, here are some 'live' ones:
 - [Significa](https://significa.co/handbook)
 - [37signals](https://basecamp.com/handbook)
 
-Are we missing something? [Email me](mailto:justin@buttondown.email) and I'll add it.
+This page is open source; [file an issue or pull request](https://github.com/jmduke/handbook.directory/issues) if you'd like to add something.
