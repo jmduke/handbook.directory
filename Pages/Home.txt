@@ -7,6 +7,7 @@ Internal onboarding/cultural handbooks that have been leaked or otherwise made p
 - [Facebook (2012)](/static/facebook.pdf)
 - [Mr. Beast (2022)](/static/mrbeast.pdf)
 - [Netflix (2009)](/static/netflix.pdf)
+- [Tesla (2020)](/static/tesla.pdf)
 - [Valve (2012)](/static/valve.pdf)
 
 ## External/public handbooks
@@ -28,6 +29,7 @@ Additionally, here are some 'live' ones. (Be sure to treat these a _little bit_ 
 - [SourceGraph (2024)](https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0)
 - [Stellate (2024)](https://stellatehq.notion.site/Stellate-Handbook-75908fa57a23439690c86eb34860751b)
 - [Thoughtbot (2024)](https://thoughtbot.com/playbook)
+- [Warp (2024)](https://warpdev.notion.site/Public-Warp-How-We-Work-b872d41a1da743fca18220a731aeba48)
 
 ## Related goodies
 
