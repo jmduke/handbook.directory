@@ -5,6 +5,7 @@ Link: /
 Internal onboarding/cultural handbooks that have been leaked or otherwise made public throughout the years.
 
 - [Facebook (2012)](/static/facebook.pdf)
+- [Linus Tech Tips (2021)](/static/linusmedia.pdf)
 - [Mr. Beast (2022)](/static/mrbeast.pdf)
 - [Netflix (2009)](/static/netflix.pdf)
 - [Tesla (2020)](/static/tesla.pdf)
@@ -16,8 +17,11 @@ Additionally, here are some 'live' ones. (Be sure to treat these a _little bit_ 
 
 - [37signals (2024)](https://basecamp.com/handbook)
 - [Airbyte (2024)](https://handbook.airbyte.com/)
+- [Army Publications (2024)](https://armypubs.army.mil/ProductMaps/PubForm/FM.aspx)
 - [Artsy (2024)](https://github.com/artsy/README)
+- [Cal.com (2024)](https://handbook.cal.com/)
 - [Clef (2016)](https://github.com/clef/handbook)
+- [Crisp DNA (2022)](https://dna.crisp.se/docs/index.html)
 - [GitLab (2024)](https://handbook.gitlab.com/)
 - [MadeTech (2024)](https://github.com/madetech/handbook)
 - [MarsBased (2024)](https://github.com/MarsBased/handbook)
@@ -28,6 +32,7 @@ Additionally, here are some 'live' ones. (Be sure to treat these a _little bit_ 
 - [Significa (2024)](https://significa.co/handbook)
 - [SourceGraph (2024)](https://sourcegraph.notion.site/d7614e3e9dc04c09ac2d42d57f1816e6?v=2a6d426dbae14390b155120b0c029ce0)
 - [Stellate (2024)](https://stellatehq.notion.site/Stellate-Handbook-75908fa57a23439690c86eb34860751b)
+- [Technology Transformation Services (2024)](https://handbook.tts.gsa.gov/)
 - [Thoughtbot (2024)](https://thoughtbot.com/playbook)
 - [Warp (2024)](https://warpdev.notion.site/Public-Warp-How-We-Work-b872d41a1da743fca18220a731aeba48)
 
