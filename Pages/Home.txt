@@ -4,6 +4,7 @@ Link: /
 
 Internal onboarding/cultural handbooks that have been leaked or otherwise made public throughout the years.
 
+- [Enron (2000)](/static/enron.pdf)
 - [Facebook (2012)](/static/facebook.pdf)
 - [Linus Tech Tips (2021)](/static/linusmedia.pdf)
 - [Mr. Beast (2022)](/static/mrbeast.pdf)
