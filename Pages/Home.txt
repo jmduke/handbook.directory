@@ -23,6 +23,7 @@ Additionally, here are some 'live' ones. (Be sure to treat these a _little bit_ 
 - [Cal.com (2024)](https://handbook.cal.com/)
 - [Clef (2016)](https://github.com/clef/handbook)
 - [Crisp DNA (2022)](https://dna.crisp.se/docs/index.html)
+- [Float (2024)](https://floatteam.notion.site/Float-Handbook-9bf7a6a869744d41b2adfaa1c9131746)
 - [GitLab (2024)](https://handbook.gitlab.com/)
 - [MadeTech (2024)](https://github.com/madetech/handbook)
 - [MarsBased (2024)](https://github.com/MarsBased/handbook)
